@@ -2,7 +2,7 @@
 
 /**
  * Klasa do obsługi połączeń z bazą danych
- * @author Jan Horodecki
+ * @author Kacper Filipiak
  * @since 0.2
  */
 class DataBaseConn
