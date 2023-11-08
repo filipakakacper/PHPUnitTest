@@ -7,7 +7,7 @@ require("app/libs/whichBrowser/vendor/autoload.php");
  * Klasa ta reprezentuje narzędzie do zbierania informacji o kliencie, takie jak przeglądarka i system operacyjny.
  * Dodatkowo umożliwia generowanie kodu szyfrowania na podstawie informacji o kliencie.
  * 
- * @author Jan Horodecki
+ * @author Kacper Filipiak
  * @since 1.0
  */
 class Sensor {
